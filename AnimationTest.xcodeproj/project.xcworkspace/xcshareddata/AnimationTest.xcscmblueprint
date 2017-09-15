@@ -1,0 +1,24 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "b7e21fce-0530-11e6-992c-01ee3aaccb3f++9741" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "b7e21fce-0530-11e6-992c-01ee3aaccb3f++9741" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "119C6148-6B8C-4812-9016-C7B17B85EB4D",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "b7e21fce-0530-11e6-992c-01ee3aaccb3f++9741" : "..\/myscoop_new%202\/myscoop_new"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "AnimationTest",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "AnimationTest.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/192.168.100.5:8080\/svn\/myscoop",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "b7e21fce-0530-11e6-992c-01ee3aaccb3f++9741"
+    }
+  ]
+}
